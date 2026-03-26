@@ -32,7 +32,7 @@ const SERVICE_DETAILS: ServiceDetail[] = [
       'Fuel System Cleaning',
       'Cooling System Repair',
     ],
-    image: 'https://images.unsplash.com/photo-1601362840469-51e4d8d58785?w=800&q=75',
+    image: '/gallery/engine-rebuild.jpg',
     imageAlt: 'Engine repair and diagnostics at Automotive 24/7 Manassas VA',
   },
   {
@@ -50,7 +50,7 @@ const SERVICE_DETAILS: ServiceDetail[] = [
       'Ball Joint & Tie Rod Service',
       'Power Steering Repair',
     ],
-    image: 'https://images.unsplash.com/photo-1558979158-65a1eaa08691?w=800&q=75',
+    image: '/gallery/brakes-and-suspension.jpg',
     imageAlt: 'Brake and suspension service at Automotive 24/7',
   },
   {
@@ -68,7 +68,7 @@ const SERVICE_DETAILS: ServiceDetail[] = [
       'Tire Rotation & Balance',
       'Battery Test & Replacement',
     ],
-    image: 'https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=800&q=75',
+    image: '/gallery/Oil%20change%20%26%20service.jpg',
     imageAlt: 'Oil change and maintenance services',
   },
   {
@@ -86,7 +86,7 @@ const SERVICE_DETAILS: ServiceDetail[] = [
       'Glass Replacement',
       'Insurance Claims Assistance',
     ],
-    image: 'https://images.unsplash.com/photo-1615906655593-ad0386982a0f?w=800&q=75',
+    image: '/gallery/body-work.jpg',
     imageAlt: 'Auto body and collision repair',
   },
   {
@@ -104,7 +104,7 @@ const SERVICE_DETAILS: ServiceDetail[] = [
       'Custom Paint Jobs',
       'Paint Protection Advice',
     ],
-    image: 'https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=800&q=75',
+    image: '/gallery/paint-work.jpg',
     imageAlt: 'Auto paint and finishing work',
   },
   {
@@ -122,7 +122,7 @@ const SERVICE_DETAILS: ServiceDetail[] = [
       'Solenoid Replacement',
       'Differential Repair',
     ],
-    image: 'https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800&q=75',
+    image: '/gallery/transmission%20service.jpg',
     imageAlt: 'Transmission service and repair',
   },
 ];
